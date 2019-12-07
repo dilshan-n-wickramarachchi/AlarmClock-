@@ -22,3 +22,10 @@ Develop an Alarm Clock using PIC 18F micro-controller
   * Buzzer with cool music tones (GoT Intro)
   * 4x4 Keypad to navigate and enter data
   * Count down timer
+
+## Files 
+  * MyProject.c - Main Source file
+  * MyProject.cp - C++ Source file 
+  * buzzer.h - Header file containg tunes for buzzer tones
+  * cout_buz.h - Header file for count down buzzer tones
+  * Schematic Design - Proteous Schematic and PCB Design for Simulations 
